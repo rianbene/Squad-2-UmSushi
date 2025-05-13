@@ -3,9 +3,14 @@
 Projeto desenvolvido pela Squad [Nome da Squad].
 
 ## Autores
-- Nome 1 (@github1)
-- Nome 2 (@github2)
-- Nome 3 (@github3)
+- Erick José Andrade de Jesus (@ErickAndJ)
+- Luan França Machado (@caf3ina)
+- Samuel Santos de Vasconcelos (@V4sctoss)
+- Samuel de Oliveira Simões (@SamuelOliveira04)
+- Matheus Lôpo Borba (@Math-hews)
+- Rian Benedito Martins de Araújo (@rianbene)
+- Pedro Politano Álvares Sanches de Almeida (@P0litano)
+- Julia Amorim Maximo (@)
 
 ## Como executar localmente
 
