@@ -1,6 +1,6 @@
-# Nome do Projeto
+# Um Sushi Projeto
 
-Projeto desenvolvido pela Squad [Nome da Squad].
+Projeto desenvolvido pela Squad 2.
 
 ## Autores
 - Erick José Andrade de Jesus (@ErickAndJ)
