@@ -10,7 +10,7 @@ Projeto desenvolvido pela Squad 2.
 - Matheus Lôpo Borba (@Math-hews)
 - Rian Benedito Martins de Araújo (@rianbene)
 - Pedro Politano Álvares Sanches de Almeida (@P0litano)
-- Julia Amorim Maximo (@)
+- Julia Amorim Maximo (@JuliaAmorMax)
 
 ## Como executar localmente
 
