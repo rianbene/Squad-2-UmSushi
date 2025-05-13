@@ -4,13 +4,13 @@ Projeto desenvolvido pela Squad 2.
 
 ## Autores
 - Erick José Andrade de Jesus (@ErickAndJ)
-- Luan França Machado (@caf3ina)
-- Samuel Santos de Vasconcelos (@V4sctoss)
-- Samuel de Oliveira Simões (@SamuelOliveira04)
-- Matheus Lôpo Borba (@Math-hews)
-- Rian Benedito Martins de Araújo (@rianbene)
-- Pedro Politano Álvares Sanches de Almeida (@P0litano)
 - Julia Amorim Maximo (@JuliaAmorMax)
+- Luan França Machado (@caf3ina)
+- Matheus Lôpo Borba (@Math-hews)
+- Pedro Politano Álvares Sanches de Almeida (@P0litano)
+- Rian Benedito Martins de Araújo (@rianbene)
+- Samuel de Oliveira Simões (@SamuelOliveira04)
+- Samuel Santos de Vasconcelos (@V4sctoss)
 
 ## Como executar localmente
 
