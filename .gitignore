@@ -87,5 +87,5 @@ desktop.ini
 *.swp
 *.bak
 
-# Build genérico
+# Build
 build/
