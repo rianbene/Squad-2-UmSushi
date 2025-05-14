@@ -10,7 +10,7 @@ Projeto desenvolvido pela Squad 2.
 - Pedro Politano Álvares Sanches de Almeida (@P0litano)
 - Rian Benedito Martins de Araújo (@rianbene)
 - Samuel de Oliveira Simões (@SamuelOliveira04)
-- Samuel Santos Vasconcelos (@V4sctoss)
+- Samuel Santos de Vasconcelos (@V4sctoss)
 
 ## Como executar localmente
 
