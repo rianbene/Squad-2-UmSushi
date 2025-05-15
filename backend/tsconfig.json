@@ -17,14 +17,5 @@
     "noImplicitAny": false,
     "strictBindCallApply": false,
     "noFallthroughCasesInSwitch": false
-  },
-    "include": [
-      "src/**/*",
-      "test/**/*",
-      "jest.config.js"
-  ],
-  "exclude": [
-    "node_modules",
-    "dist"
-  ]
+  }
 }
