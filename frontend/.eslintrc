@@ -1,0 +1,7 @@
+{
+  "extends": "next/core-web-vitals",
+  "rules": {
+    "no-unused-vars": "warn",  // Permite até 5 warnings
+    "indent": ["error", 2]
+  }
+}
