@@ -89,9 +89,3 @@ desktop.ini
 
 # Build
 build/
-
-# Resolver erro do prettier no backend
-* text=auto eol=lf
-*.js text eol=lf
-*.ts text eol=lf
-*.json text eol=lf
