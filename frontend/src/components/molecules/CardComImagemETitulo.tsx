@@ -1,4 +1,4 @@
-import Card from '../components/Card';
+import Card from '@atoms/Card';
 import ImageOptimized from '../components/ImageOptimized';
 
 type Props = {

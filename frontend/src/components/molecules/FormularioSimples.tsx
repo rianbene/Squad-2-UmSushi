@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import Input from '../components/Input';
-import Button from '../components/Button';
+import Input from '@atoms/Input';
+import Button from '@atoms/Button';
 
 export default function FormularioSimples() {
   const [nome, setNome] = useState('');
