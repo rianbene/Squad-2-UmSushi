@@ -3,7 +3,8 @@ import Input from '@atoms/Input';
 import Button from '@atoms/Button';
 
 export default function FormularioSimples() {
-  const [nome, setNome] = useState('');
+  //const [nome, setNome] = useState(''); 
+  const [nome] = useState('');
   const [erro, setErro] = useState('');
 
   function handleSubmit() {
@@ -16,7 +17,7 @@ export default function FormularioSimples() {
   }
 
   return (
-    <div className="space-y-2">
+    <div className="molecule">
       <Input
         label="Nome"
         placeholder="Digite seu nome"

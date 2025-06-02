@@ -7,7 +7,7 @@ type Props = {
 
 export default function ConfirmarCancelarAcoes({ onConfirmar, onCancelar }: Props) {
   return (
-    <div className="flex gap-3">
+    <div className="molecule">
       <Button type="primary" onClick={onConfirmar}>Confirmar</Button>
       <Button type="secondary" onClick={onCancelar}>Cancelar</Button>
     </div>
