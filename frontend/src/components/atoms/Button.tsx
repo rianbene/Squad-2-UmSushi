@@ -1,18 +1,12 @@
-import React, { ReactNode } from 'react';
-
-type ButtonType = 'primary' | 'secondary';
+import React from 'react';
 
 interface ButtonProps {
-  type?: ButtonType;
+  type?: 'primary' | 'secondary';
   disabled?: boolean;
-  children: ReactNode;
+  children: React.ReactNode;
 }
 
-export default function Button({
-  type = 'primary',
-  disabled = false,
-  children
-}: ButtonProps) {
+export default function Button({ type = 'primary', disabled = false, children }: ButtonProps) {
   const base = 'py-2 px-4 rounded font-semibold ';
   const styles: Record<string, string> = {
     primary: 'bg-blue-600 text-white hover:bg-blue-700',

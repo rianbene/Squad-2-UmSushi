@@ -1,4 +1,12 @@
-export default function Input({ label, placeholder, error }) {
+import React from 'react';
+
+interface InputProps {
+  label?: string;
+  placeholder?: string;
+  error?: string;
+}
+
+export default function Input({ label, placeholder, error }: InputProps) {
   return (
     <div className="mb-4">
       {label && <label className="block font-medium mb-1">{label}</label>}
