@@ -4,6 +4,7 @@ interface ButtonProps {
   type?: 'primary' | 'secondary';
   disabled?: boolean;
   children: React.ReactNode;
+  onClick: () => void;
 }
 
 export default function Button({ type = 'primary', disabled = false, children }: ButtonProps) {
