@@ -24,19 +24,15 @@
     ],
     "baseUrl": ".",
     "paths": {
-      "@atoms/*": [
-        "./src/components/atoms/*"
-      ],
-      "@molecules/*": [
-        "./src/components/molecules/*"
-      ],
-      "@organisms/*": [
-        "./src/components/organisms/*"
-      ],
-      "@templates/*": [
-        "./src/components/templates/*"
-      ]
-    }
+  "@atoms/*": ["./src/components/atoms/*"],
+  "@molecules/*": ["./src/components/molecules/*"],
+  "@organisms/*": ["./src/components/organisms/*"],
+  "@templates/*": ["./src/components/templates/*"],
+  "@hooks/*": ["./src/app/hooks/*"],
+  "@services/*": ["./src/app/services/*"],
+  "@mock/*": ["./src/app/mock/*"]
+}
+
   },
   "include": [
     "next-env.d.ts",

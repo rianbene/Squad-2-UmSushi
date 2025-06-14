@@ -12,7 +12,7 @@ export default function TemplateExemplo({ tituloPagina }: TemplateExemploProps) 
         <h1>Isso é um Template: {tituloPagina}</h1>
       </header>
       <main>
-        <OrganismoExemplo tituloSecao="Seção de Exemplo" />
+        <OrganismoExemplo tituloSecao="Categorias e Produtos" />
       </main>
       <footer>
         Desenvolvido com Atomic Design
