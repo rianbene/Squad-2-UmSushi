@@ -8,6 +8,7 @@ on:
   pull_request:
     branches: 
     - main
+    - develop
 env:
   NODE_VERSION: 22              
   FRONTEND_DIR: "./frontend"
@@ -39,7 +40,7 @@ jobs:
         run: npm run test:cov
 
       - name: Security Audit Backend
-        run: npm audit --audit-level=high || true
+        run: npm audit --audit-level=high
 
       - name: Build Backend
         run: npm run build
@@ -69,7 +70,7 @@ jobs:
         run: npm run test:cov
 
       - name: Security Audit Frontend
-        run: npm audit --audit-level=high || true
+        run: npm audit --audit-level=high
 
       - name: Build Frontend
         run: npm run build
