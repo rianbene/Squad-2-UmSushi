@@ -36,7 +36,7 @@ export default function ListaProdutos({
           <button
             key={i}
             onClick={() => onPaginaChange(i + 1)}
-            className={\`px-3 py-1 border rounded \${paginaAtual === i + 1 ? 'bg-blue-500 text-white' : 'bg-white'}\`}
+            className={`px-3 py-1 border rounded ${paginaAtual === i + 1 ? 'bg-blue-500 text-white' : 'bg-white'}`}
           >
             {i + 1}
           </button>
